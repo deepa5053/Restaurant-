@@ -78,13 +78,6 @@ display: flex;
 flex-direction: row;
 justify-content: space-evenly;
 }
-.box-hours{
-    box-sizing: border-box;
-    border-color: #FD49A7;
-    border-width: 2px ;
-    border-style: solid;
-   
-}
 .hours{
 display: flex;
 color: aliceblue;
